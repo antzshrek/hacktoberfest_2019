@@ -1,5 +1,6 @@
 # 🎃 HacktoberFest Starter Project 2019 🎃
 
+<p align="center"><a href="https://github.com/antzshrek/hacktoberfest_2019" target="_blank" rel="noopener noreferrer"><img width="400" src="https://github.com/antzshrek/hacktoberfest_2019/Hacktoberfest_19_Events_1457x180.png" alt="logo"></a></p>
 
 ## General
 
