@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 2019 🎃
+# 🎃 HacktoberFest Starter Project 2021 🎃
 
 <img width="400" src="./Hacktoberfest_19_Events_1457x180.png" alt="logo"></a></p>
 
@@ -47,9 +47,7 @@ What is Hacktoberfest?
 
 _Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV._
 
-_Hacktoberfest is open to everyone in our global community.
-To participate, four pull requests must be submitted to public GitHub repositories.
-You can sign up anytime between October 1 and October 31._
+ Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
 
 ___
 
