@@ -5,6 +5,7 @@
 
 'use strict'
 
-const greetings = "\nHello World, Welcome to hacktoberfest 2019!!!\n"
+const greetings = "\nHello World, Welcome to hacktoberfest 2021!!!\n"
+const greetings = "\nHello World, Welcome to hacktoberfest 2021!!!\n"
 
 console.log(greetings);
