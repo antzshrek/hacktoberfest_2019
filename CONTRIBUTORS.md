@@ -5,7 +5,9 @@
 
 
 #### Name: Sujit
--GitHub: https://github.com/SkyNpEH/
+- Place: Nepal,KTM
+- Bio: CyberSecurity Researcher
+- GitHub: https://github.com/SkyNpEH/
 
 
 #### Name: Taruna Saini
