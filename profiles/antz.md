@@ -12,21 +12,16 @@ University of Jos
 
 ### Interests
 
-
 - Open source collaboration
 - Reviewing codes
 - Learning new programming language
 - Building Design (Architecture)
 - Music
+- Testing the network *winks*
 
 ### Development
 
-- Back-end + Cloud Eng.
-
-
-### Projects
-
-- [JWT_authentication_API_bolilerplate](https://github.com/antzshrek/JWT_authentication_API_bolilerplate) A NodeJS boiler plate with JTW authentication.
+- Back-end + Cloud Engr + Network Engr.
 
 ### Profile Link
 
