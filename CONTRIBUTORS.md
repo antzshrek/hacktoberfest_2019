@@ -27,3 +27,9 @@
 - Place: Nairobi, Kenya
 - Bio: Software Developer and Computer Science Student
 - GitHub: [PatrickMurimi](https://github.com/grand-rick001)
+
+### Name: Ravishankar
+
+- Place: Noida, Delhi
+- Bio: Software Developer and Computer Science Student
+- GitHub: [vr1Ravi](https://github.com/vr1Ravi)
