@@ -4,14 +4,13 @@ Reuben Antz
 
 ### Location
 
-Jos, Nigeria
+Abuja, Nigeria
 
 ### Academics
 
 University of Jos 
 
 ### Interests
-
 
 - Open source collaboration
 - Reviewing codes
@@ -21,12 +20,7 @@ University of Jos
 
 ### Development
 
-- Back-end + Cloud Eng.
-
-
-### Projects
-
-- [JWT_authentication_API_bolilerplate](https://github.com/antzshrek/JWT_authentication_API_bolilerplate) A NodeJS boiler plate with JTW authentication.
+- Back-end + Cloud Eng + Info Sec.
 
 ### Profile Link
 
