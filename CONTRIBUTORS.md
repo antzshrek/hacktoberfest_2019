@@ -28,6 +28,12 @@
 - Bio: Software Developer and Computer Science Student
 - GitHub: [PatrickMurimi](https://github.com/grand-rick001)
 
+#### Name: Aayush Chauhan
+
+- Place: India
+- Bio: Web Developer. Pursuing Graduation.
+- GitHub: [aayush-506](https://github.com/aayush-506)
+
 ### Name: Ravishankar
 
 - Place: Noida, Delhi
