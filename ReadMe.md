@@ -1,5 +1,8 @@
-# 🎃 HacktoberFest Starter Project 2021 🎃
+# 🎃 HacktoberFest Starter Project 2023 🎃
 
+## Hacktoberfest
+
+Hacktoberfest 2023 marks its 10th anniversary. A collaborative online event encouraging individuals of all levels of experience to contribute to open source projects. Participation requires registration on the official website - [Hacktoberfest](https://hacktoberfest.com/).  [Registration](https://hacktoberfest.com/auth/) opens on September 26th, and extends until October 31st. Contributions made within the boundaries of October 1st to October 31st in the form of pull/merge requests. Individuals may contribute to any open source codebase found on [GitHub](https://github.com/topics/hacktoberfest) & [GitLab](https://gitlab.com/explore/projects/topics/hacktoberfest?utm_campaign=devrel&utm_budget=devrel) marked for "hacktoberfest." Four valid pull requests must be accepted for completion.
 
 ## General
 
