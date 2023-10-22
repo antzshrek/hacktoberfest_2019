@@ -4,7 +4,7 @@ Reuben Antz
 
 ### Location
 
-Jos, Nigeria
+Abuja, Nigeria
 
 ### Academics
 
@@ -21,7 +21,7 @@ University of Jos
 
 ### Development
 
-- Back-end + Cloud Engr + Network Engr.
+- Back-end + Cloud Eng + Network Engr + Info Sec.
 
 ### Profile Link
 
