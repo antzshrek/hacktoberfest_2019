@@ -45,3 +45,8 @@
 - Place: Washington, USA
 - Bio: Aspiring Front-End Web Developer
 - GitHub: [jodoesgit](https://github.com/jodoesgit)
+
+#### Name: [Anmol Agarwal](https://github.com/onemole6022)
+- Place: Kharagpur, West Bengal, India
+- Bio: Game Dev and Web Dev Enthusiast
+- GitHub: [onemole6022](https://github.com/onemole6022)
