@@ -50,3 +50,8 @@
 - Place: Kharagpur, West Bengal, India
 - Bio: Game Dev and Web Dev Enthusiast
 - GitHub: [onemole6022](https://github.com/onemole6022)
+
+#### Name: [James Mukuvi Ngandu](https://github.com/jmngandu)
+- Place: Nairobi, westlands, Kenya
+- Bio: I am a frontend developer and a open source contributor
+- GitHub: [jmngandu](https://github.com/jmngandu)
